@@ -169,6 +169,7 @@ Contributions most welcome.
 * [Prometheus](http://www.imdb.com/title/tt1446714/)
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
+* [Interstellar](http://www.imdb.com/title/tt0816692/)
 
 
 ## Misc
